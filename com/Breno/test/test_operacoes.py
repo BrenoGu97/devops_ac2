@@ -1,5 +1,5 @@
 from unittest import TestCase
-from com.Breno.operacoes import Operacoes
+from com.breno.operacoes import Operacoes
 
 class TestOperacoes(TestCase):
 
